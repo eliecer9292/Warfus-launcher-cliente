@@ -1,9 +1,1 @@
-{
-  "version": "1.8",
-  "publishedAt": "2026-11-02T00:00:00Z",
-  "url": "https://github.com/eliecer9292/Vantex-Titan/releases/download/v1.8/v1.8.zip",
-  "sha256": "0F1B40F5303E16E1074430910B5068B5EAA67652967F14884219E16380F04676",
-  "notas": "**Notas de la actualización · v1.8**\n\n**Retroceso por arma.** Calibración del **recorte en pantalla** (icono / nombre) justo **debajo del preview** al usar **Capturar icono** o **Capturar nombre**; **Vertical**, **Horizontal** y botones de captura **siempre visibles** con el flujo ordenado.\n\n**Retroceso por arma.** **Ver recorte** y la vista previa corregidos (el backend envía `preview`, no `png`); menos errores al capturar sin arma elegida.\n\n**Macros.** **Rapid Fire por arma** se **atenúa y bloquea** con **Todos** apagado, igual que Slide Cancel y Auto Placa; sincronización del interruptor con el motor.\n\n**Actualización.** Cerrar el banner con **×** ya **no** guarda “no molestar para siempre”: si no instalaste, el aviso **vuelve al abrir** la app.",
-  "aviso": "**Nueva versión v1.8**\n\n**Retroceso por arma:** ajusta el recorte del HUD y captura icono/nombre con más claridad.\n\n**Macros:** Rapid Fire por arma coherente con el interruptor **Todos**.\n\n**Actualización:** el aviso de versión nueva vuelve si cerraste sin actualizar.\n\nPulsa **Actualizar** para instalar.",
-  "history": []
-}
+
